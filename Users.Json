@@ -1,0 +1,24 @@
+{
+    "users": {
+        "alan": {
+            "salt": "7b9x2p",
+            "hashed_password": "cad539451a69f83a462d49b8547aadf066d49bc547b22e790196e54e47c3557b"
+        },
+        "maya": {
+            "salt": "4k1m9z",
+            "hashed_password": "e5d4c3b2a19876543210fedcba098765"
+        },
+        "jordan": {
+            "salt": "9v3r5w",
+            "hashed_password": "1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p"
+        },
+        "ash": {
+            "salt": "26f55fe4f7d7fd75a2d5e15ba7e0e738",
+            "hashed_password": "010c60efedfbec05a5217c191597dbde225acf9935f714b41669cbc85e855ca5"
+        },
+        "aesh": {
+            "salt": "06b549a2cb19c078",
+            "hashed_password": "6c268d9150edb4638f00533f437c45c2d1bd5f3ad54822ffa31b2bf8be009fda"
+        }
+    }
+}
